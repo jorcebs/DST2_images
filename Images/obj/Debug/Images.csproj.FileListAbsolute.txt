@@ -1,0 +1,21 @@
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\bin\Debug\Images.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\bin\Debug\Images.exe
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\bin\Debug\Images.pdb
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\obj\Debug\Images.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\obj\Debug\Images.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\obj\Debug\Images.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\obj\Debug\Images.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\obj\Debug\Images.exe
+E:\Facu\4to semestre\Estructura de Datos\Images\Images\obj\Debug\Images.pdb
+D:\Facu\4to semestre\Estructura de Datos\Images\Images\bin\Debug\Images.exe.config
+D:\Facu\4to semestre\Estructura de Datos\Images\Images\obj\Debug\Images.exe
+D:\Facu\4to semestre\Estructura de Datos\Images\Images\obj\Debug\Images.pdb
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\bin\Debug\Images.exe.config
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\obj\Debug\Images.exe
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\obj\Debug\Images.pdb
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\bin\Debug\Images.exe
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\bin\Debug\Images.pdb
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\obj\Debug\Images.csprojResolveAssemblyReference.cache
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\obj\Debug\Images.Form1.resources
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\obj\Debug\Images.Properties.Resources.resources
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\2. Imágenes\Images\obj\Debug\Images.csproj.GenerateResource.Cache
